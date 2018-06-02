@@ -1,4 +1,4 @@
-# Crabgrass Android Camera Demo
+# Crabgrass Classifier TensorFlow Android Camera Demo app
 
 This folder contains an example application utilizing TensorFlow for Android
 devices.
